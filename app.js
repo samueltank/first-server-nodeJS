@@ -11,5 +11,4 @@ app.get('/', (req, res) => {
   /* callback de processamento da requisição */
   return res.send('Hello World!');
 });
-Creates an Express application. The express() function is a top-level function exported by the express module.
 app.listen(port); /* inicia a aplicação na porta definida */
