@@ -1,0 +1,25 @@
+{
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "description": "Meu primeiro servidor com NodeJS(módulo HTTP).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samueltank/first-server-nodeJS.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Samuel Tank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samueltank/first-server-nodeJS/issues"
+  },
+  "homepage": "https://github.com/samueltank/first-server-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
